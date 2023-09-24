@@ -3,5 +3,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tra931/Aidaxtech.com/
-    - /bin/cp -R / $DEPLOYPATH
+    - /bin/cp .c_panel copy.yml.txt /home/tra931/Aidaxtech.com/
 
