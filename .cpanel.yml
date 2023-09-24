@@ -3,7 +3,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tra931/Aidaxtech.com/
-    - /bin/cp index.php $DEPLOYPATH
-    - /bin/cp -R lib $DEPLOYPATH
-    - /bin/cp -R user $DEPLOYPATH
+    - /bin/cp -R / $DEPLOYPATH
 
