@@ -13,3 +13,10 @@ deployment:
     - /bin/cp .c_panel-copy.yml.txt $DEPLOYPATH
 
 
+##### THIS ALLOWS US TO DEPLOY THE SITE FROM A GIT REPO ######
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/tra931/Aidaxtech.com/
+    - /bin/cp index.php $DEPLOYPATH
+
