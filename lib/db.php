@@ -1,16 +1,16 @@
 <?php	
-	// define ("DB_HOST", "localhost"); 
-	// define ("DB_NAME", "tra931_owens"); 
-	// define ("DB_TABLE", "users_table"); 
-	// define ("DB_USER", "tra931_owens"); 
-	// define ("DB_PASS", "CMQZR7bm297FLVr");
+	define ("DB_HOST", "localhost"); 
+	define ("DB_NAME", "tra931_owens"); 
+	define ("DB_TABLE", "users_table"); 
+	define ("DB_USER", "tra931_owens"); 
+	define ("DB_PASS", "CMQZR7bm297FLVr");
 
 
-	define ("DB_HOST", "localhost"); //Databse Host.
-	define ("DB_NAME", "tra931_owens"); //tra931_fun.
-	define ("DB_TABLE", "users_table"); //tra931_fun.
-	define ("DB_USER", "root"); //tra931_funnel.
-	define ("DB_PASS", ""); //Ua,}Xj+uzK2c.
+	// define ("DB_HOST", "localhost"); //Databse Host.
+	// define ("DB_NAME", "tra931_owens"); //tra931_fun.
+	// define ("DB_TABLE", "users_table"); //tra931_fun.
+	// define ("DB_USER", "root"); //tra931_funnel.
+	// define ("DB_PASS", ""); //Ua,}Xj+uzK2c.
 
     $db = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
