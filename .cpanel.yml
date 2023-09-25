@@ -5,6 +5,5 @@ deployment:
     - export DEPLOYPATH=/home/tra931/Aidaxtech.com/
     - /bin/cp -R user $DEPLOYPATH
     - /bin/cp -R lib $DEPLOYPATH
-    - /bin/cp -R asset $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
 
