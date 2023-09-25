@@ -1,5 +1,4 @@
 <?php
-//test
    require_once("lib/db.php");
    create_table(DB_TABLE);
    $DB_TABLE=DB_TABLE;
