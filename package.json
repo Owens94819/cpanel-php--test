@@ -1,0 +1,19 @@
+{
+  "name": "cpanel-nodejs",
+  "version": "1.0.0",
+  "description": "test script",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owens94819/cpanel-php--test.git"
+  },
+  "author": "akpede owens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Owens94819/cpanel-php--test/issues"
+  },
+  "homepage": "https://github.com/Owens94819/cpanel-php--test#readme"
+}
